@@ -9,12 +9,60 @@
       ],
       "createdAt": "2025-07-30T06:17:34.871Z",
       "updatedAt": "2025-07-30T06:17:34.871Z"
+    },
+    "테크스타 회사": {
+      "name": "테크스타 회사",
+      "entityType": "Company",
+      "observations": [
+        "AI 스타트업",
+        "서울 강남구 소재",
+        "직원 수 15명",
+        "2023년 설립"
+      ],
+      "createdAt": "2025-07-30T06:19:17.801Z",
+      "updatedAt": "2025-07-30T06:19:17.801Z"
+    },
+    "김개발": {
+      "name": "김개발",
+      "entityType": "Person",
+      "observations": [
+        "백엔드 개발자",
+        "Node.js 전문",
+        "3년 경력",
+        "팀 리더"
+      ],
+      "createdAt": "2025-07-30T06:19:17.801Z",
+      "updatedAt": "2025-07-30T06:19:17.801Z"
+    },
+    "이디자인": {
+      "name": "이디자인",
+      "entityType": "Person",
+      "observations": [
+        "UI/UX 디자이너",
+        "Figma 전문가",
+        "2년 경력",
+        "크리에이티브 팀"
+      ],
+      "createdAt": "2025-07-30T06:19:17.801Z",
+      "updatedAt": "2025-07-30T06:19:17.801Z"
+    },
+    "박기획": {
+      "name": "박기획",
+      "entityType": "Person",
+      "observations": [
+        "프로덕트 매니저",
+        "애자일 방법론",
+        "5년 경력",
+        "전략 기획 담당"
+      ],
+      "createdAt": "2025-07-30T06:19:17.801Z",
+      "updatedAt": "2025-07-30T06:19:17.801Z"
     }
   },
   "relations": [],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-07-30T06:17:34.871Z",
-    "lastSync": "2025-07-30T06:15:11.384Z"
+    "lastModified": "2025-07-30T06:19:17.801Z",
+    "lastSync": "2025-07-30T06:17:35.772Z"
   }
 }
