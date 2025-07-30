@@ -89,10 +89,59 @@
       "updatedAt": "2025-07-30T07:21:40.613Z"
     }
   },
-  "relations": [],
+  "relations": [
+    {
+      "from": "김개발",
+      "to": "테크스타 회사",
+      "relationType": "근무",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "이디자인",
+      "to": "테크스타 회사",
+      "relationType": "근무",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "박기획",
+      "to": "테크스타 회사",
+      "relationType": "근무",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "김개발",
+      "to": "AI 챗봇 프로젝트",
+      "relationType": "개발 담당",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "이디자인",
+      "to": "AI 챗봇 프로젝트",
+      "relationType": "UI 디자인",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "박기획",
+      "to": "모바일 앱",
+      "relationType": "기획 관리",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "AI 챗봇 프로젝트",
+      "to": "테크스타 회사",
+      "relationType": "소속",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    },
+    {
+      "from": "모바일 앱",
+      "to": "테크스타 회사",
+      "relationType": "소속",
+      "createdAt": "2025-07-30T07:21:54.273Z"
+    }
+  ],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-07-30T07:21:40.613Z",
-    "lastSync": "2025-07-30T06:55:03.804Z"
+    "lastModified": "2025-07-30T07:21:54.273Z",
+    "lastSync": "2025-07-30T07:21:41.526Z"
   }
 }
