@@ -1,9 +1,20 @@
 {
-  "entities": {},
+  "entities": {
+    "테스트 사용자": {
+      "name": "테스트 사용자",
+      "entityType": "Person",
+      "observations": [
+        "developer",
+        "mcp 테스트중"
+      ],
+      "createdAt": "2025-07-30T06:17:34.871Z",
+      "updatedAt": "2025-07-30T06:17:34.871Z"
+    }
+  },
   "relations": [],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-07-30T06:16:32.634Z",
-    "lastSync": "2025-07-30T06:16:32.634Z"
+    "lastModified": "2025-07-30T06:17:34.871Z",
+    "lastSync": "2025-07-30T06:15:11.384Z"
   }
 }
