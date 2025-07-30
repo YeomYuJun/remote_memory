@@ -57,12 +57,36 @@
       ],
       "createdAt": "2025-07-30T06:19:17.801Z",
       "updatedAt": "2025-07-30T06:19:17.801Z"
+    },
+    "AI 챗봇 프로젝트": {
+      "name": "AI 챗봇 프로젝트",
+      "entityType": "Project",
+      "observations": [
+        "고객지원 챗봇 개발",
+        "React + Node.js 스택",
+        "3개월 개발 기간",
+        "베타 단계"
+      ],
+      "createdAt": "2025-07-30T06:19:31.406Z",
+      "updatedAt": "2025-07-30T06:19:31.406Z"
+    },
+    "모바일 앱": {
+      "name": "모바일 앱",
+      "entityType": "Project",
+      "observations": [
+        "React Native 기반",
+        "iOS/Android 동시 지원",
+        "6개월 개발 예정",
+        "기획 단계"
+      ],
+      "createdAt": "2025-07-30T06:19:31.406Z",
+      "updatedAt": "2025-07-30T06:19:31.406Z"
     }
   },
   "relations": [],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-07-30T06:19:17.801Z",
-    "lastSync": "2025-07-30T06:17:35.772Z"
+    "lastModified": "2025-07-30T06:19:31.406Z",
+    "lastSync": "2025-07-30T06:19:18.796Z"
   }
 }
