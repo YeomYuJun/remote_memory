@@ -1,9 +1,98 @@
 {
-  "entities": {},
+  "entities": {
+    "테스트 사용자": {
+      "name": "테스트 사용자",
+      "entityType": "Person",
+      "observations": [
+        "developer",
+        "mcp 테스트중"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    },
+    "테크스타 회사": {
+      "name": "테크스타 회사",
+      "entityType": "Company",
+      "observations": [
+        "AI 스타트업",
+        "서울 강남구 소재",
+        "직원 수 15명",
+        "2023년 설립"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    },
+    "김개발": {
+      "name": "김개발",
+      "entityType": "Person",
+      "observations": [
+        "백엔드 개발자",
+        "Node.js 전문",
+        "3년 경력",
+        "팀 리더",
+        "코드 리뷰 전문가",
+        "Git 워크플로우 마스터",
+        "멘토링 경험 있음"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    },
+    "이디자인": {
+      "name": "이디자인",
+      "entityType": "Person",
+      "observations": [
+        "UI/UX 디자이너",
+        "Figma 전문가",
+        "2년 경력",
+        "크리에이티브 팀"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    },
+    "박기획": {
+      "name": "박기획",
+      "entityType": "Person",
+      "observations": [
+        "프로덕트 매니저",
+        "애자일 방법론",
+        "5년 경력",
+        "전략 기획 담당"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    },
+    "AI 챗봇 프로젝트": {
+      "name": "AI 챗봇 프로젝트",
+      "entityType": "Project",
+      "observations": [
+        "고객지원 챗봇 개발",
+        "React + Node.js 스택",
+        "3개월 개발 기간",
+        "베타 단계",
+        "현재 75% 진행",
+        "다음 주 데모 예정",
+        "OpenAI API 활용"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    },
+    "모바일 앱": {
+      "name": "모바일 앱",
+      "entityType": "Project",
+      "observations": [
+        "React Native 기반",
+        "iOS/Android 동시 지원",
+        "6개월 개발 예정",
+        "기획 단계"
+      ],
+      "createdAt": "2025-07-30T07:21:40.613Z",
+      "updatedAt": "2025-07-30T07:21:40.613Z"
+    }
+  },
   "relations": [],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-07-30T06:55:03.804Z",
+    "lastModified": "2025-07-30T07:21:40.613Z",
     "lastSync": "2025-07-30T06:55:03.804Z"
   }
 }
