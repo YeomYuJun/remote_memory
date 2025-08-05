@@ -1,0 +1,14 @@
+{
+  "entities": {},
+  "relations": [],
+  "metadata": {
+    "version": "1.0.0",
+    "lastModified": "2025-08-05T07:46:05.184Z",
+    "lastSync": "2025-08-05T08:01:05.904Z"
+  },
+  "backupInfo": {
+    "createdAt": "2025-08-05T08:01:12.818Z",
+    "name": "stable-version-v1",
+    "originalPath": "memory/graph.json"
+  }
+}
