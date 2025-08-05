@@ -8,10 +8,13 @@
         "Founded in 2023",
         "Headquarters in Seoul",
         "50+ employees",
-        "Specializes in enterprise automation"
+        "Specializes in enterprise automation",
+        "Recently raised Series A funding",
+        "Partnership with major Korean banks",
+        "Developing chatbot solutions"
       ],
       "createdAt": "2025-08-05T08:01:22.527Z",
-      "updatedAt": "2025-08-05T08:01:22.527Z"
+      "updatedAt": "2025-08-05T08:01:47.349Z"
     },
     "Sarah Kim": {
       "name": "Sarah Kim",
@@ -20,10 +23,13 @@
         "CEO of TechCorp Solutions",
         "Former Google engineer",
         "Expert in machine learning",
-        "Stanford CS graduate"
+        "Stanford CS graduate",
+        "Fluent in Korean, English, Japanese",
+        "Active speaker at AI conferences",
+        "Published 15+ research papers"
       ],
       "createdAt": "2025-08-05T08:01:22.527Z",
-      "updatedAt": "2025-08-05T08:01:22.527Z"
+      "updatedAt": "2025-08-05T08:01:47.349Z"
     }
   },
   "relations": [
@@ -42,7 +48,7 @@
   ],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-08-05T08:01:31.997Z",
-    "lastSync": "2025-08-05T08:01:23.462Z"
+    "lastModified": "2025-08-05T08:01:47.349Z",
+    "lastSync": "2025-08-05T08:01:33.010Z"
   }
 }
