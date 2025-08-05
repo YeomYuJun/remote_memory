@@ -26,10 +26,23 @@
       "updatedAt": "2025-08-05T08:01:22.527Z"
     }
   },
-  "relations": [],
+  "relations": [
+    {
+      "from": "Sarah Kim",
+      "to": "TechCorp Solutions",
+      "relationType": "is_ceo_of",
+      "createdAt": "2025-08-05T08:01:31.997Z"
+    },
+    {
+      "from": "TechCorp Solutions",
+      "to": "AI/ML Industry",
+      "relationType": "operates_in",
+      "createdAt": "2025-08-05T08:01:31.997Z"
+    }
+  ],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-08-05T08:01:22.527Z",
-    "lastSync": "2025-08-05T08:01:05.904Z"
+    "lastModified": "2025-08-05T08:01:31.997Z",
+    "lastSync": "2025-08-05T08:01:23.462Z"
   }
 }
