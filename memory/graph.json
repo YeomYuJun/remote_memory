@@ -1,54 +1,9 @@
 {
-  "entities": {
-    "TechCorp Solutions": {
-      "name": "TechCorp Solutions",
-      "entityType": "Company",
-      "observations": [
-        "AI/ML consulting company",
-        "Founded in 2023",
-        "Headquarters in Seoul",
-        "50+ employees",
-        "Specializes in enterprise automation",
-        "Recently raised Series A funding",
-        "Partnership with major Korean banks",
-        "Developing chatbot solutions"
-      ],
-      "createdAt": "2025-08-05T08:01:22.527Z",
-      "updatedAt": "2025-08-05T08:01:47.349Z"
-    },
-    "Sarah Kim": {
-      "name": "Sarah Kim",
-      "entityType": "Person",
-      "observations": [
-        "CEO of TechCorp Solutions",
-        "Former Google engineer",
-        "Expert in machine learning",
-        "Stanford CS graduate",
-        "Fluent in Korean, English, Japanese",
-        "Active speaker at AI conferences",
-        "Published 15+ research papers"
-      ],
-      "createdAt": "2025-08-05T08:01:22.527Z",
-      "updatedAt": "2025-08-05T08:01:47.349Z"
-    }
-  },
-  "relations": [
-    {
-      "from": "Sarah Kim",
-      "to": "TechCorp Solutions",
-      "relationType": "is_ceo_of",
-      "createdAt": "2025-08-05T08:01:31.997Z"
-    },
-    {
-      "from": "TechCorp Solutions",
-      "to": "AI/ML Industry",
-      "relationType": "operates_in",
-      "createdAt": "2025-08-05T08:01:31.997Z"
-    }
-  ],
+  "entities": {},
+  "relations": [],
   "metadata": {
     "version": "1.0.0",
-    "lastModified": "2025-08-05T08:01:47.349Z",
-    "lastSync": "2025-08-05T08:01:33.010Z"
+    "lastModified": "2025-08-07T02:29:32.185Z",
+    "lastSync": "2025-08-07T02:29:32.185Z"
   }
 }
